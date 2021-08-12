@@ -7,6 +7,7 @@ $ npm install
 $ npm start
 ```
 
-![image](https://user-images.githubusercontent.com/30720809/129151377-d7e32161-374e-4807-bedc-e33f0a0d486e.png)
+![image](doc/image1.png)
 
 
+这似乎是个未完成的项目，运行起来点击没有反应。
